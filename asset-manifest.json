@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/negi_trip_paradise/static/css/main.dcd72384.chunk.css",
-    "main.js": "/negi_trip_paradise/static/js/main.040d0dcf.chunk.js",
-    "main.js.map": "/negi_trip_paradise/static/js/main.040d0dcf.chunk.js.map",
+    "main.css": "/negi_trip_paradise/static/css/main.6b6edb44.chunk.css",
+    "main.js": "/negi_trip_paradise/static/js/main.0d8b6cb8.chunk.js",
+    "main.js.map": "/negi_trip_paradise/static/js/main.0d8b6cb8.chunk.js.map",
     "runtime-main.js": "/negi_trip_paradise/static/js/runtime-main.d6e9d6a7.js",
     "runtime-main.js.map": "/negi_trip_paradise/static/js/runtime-main.d6e9d6a7.js.map",
     "static/js/2.df78d8cf.chunk.js": "/negi_trip_paradise/static/js/2.df78d8cf.chunk.js",
     "static/js/2.df78d8cf.chunk.js.map": "/negi_trip_paradise/static/js/2.df78d8cf.chunk.js.map",
     "index.html": "/negi_trip_paradise/index.html",
-    "static/css/main.dcd72384.chunk.css.map": "/negi_trip_paradise/static/css/main.dcd72384.chunk.css.map",
+    "static/css/main.6b6edb44.chunk.css.map": "/negi_trip_paradise/static/css/main.6b6edb44.chunk.css.map",
     "static/js/2.df78d8cf.chunk.js.LICENSE.txt": "/negi_trip_paradise/static/js/2.df78d8cf.chunk.js.LICENSE.txt",
     "static/media/2_dham.7a545fee.jpg": "/negi_trip_paradise/static/media/2_dham.7a545fee.jpg",
     "static/media/4_dham.fc5e766c.png": "/negi_trip_paradise/static/media/4_dham.fc5e766c.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.d6e9d6a7.js",
     "static/js/2.df78d8cf.chunk.js",
-    "static/css/main.dcd72384.chunk.css",
-    "static/js/main.040d0dcf.chunk.js"
+    "static/css/main.6b6edb44.chunk.css",
+    "static/js/main.0d8b6cb8.chunk.js"
   ]
 }
