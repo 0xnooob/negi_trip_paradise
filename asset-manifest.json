@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/negi_trip_paradise/static/css/main.6b6edb44.chunk.css",
-    "main.js": "/negi_trip_paradise/static/js/main.ceaea79d.chunk.js",
-    "main.js.map": "/negi_trip_paradise/static/js/main.ceaea79d.chunk.js.map",
+    "main.js": "/negi_trip_paradise/static/js/main.4a9a1de3.chunk.js",
+    "main.js.map": "/negi_trip_paradise/static/js/main.4a9a1de3.chunk.js.map",
     "runtime-main.js": "/negi_trip_paradise/static/js/runtime-main.d6e9d6a7.js",
     "runtime-main.js.map": "/negi_trip_paradise/static/js/runtime-main.d6e9d6a7.js.map",
     "static/js/2.df78d8cf.chunk.js": "/negi_trip_paradise/static/js/2.df78d8cf.chunk.js",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.d6e9d6a7.js",
     "static/js/2.df78d8cf.chunk.js",
     "static/css/main.6b6edb44.chunk.css",
-    "static/js/main.ceaea79d.chunk.js"
+    "static/js/main.4a9a1de3.chunk.js"
   ]
 }
