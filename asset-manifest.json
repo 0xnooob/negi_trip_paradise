@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/negi_trip_paradise/static/css/main.dcd72384.chunk.css",
+    "main.js": "/negi_trip_paradise/static/js/main.040d0dcf.chunk.js",
+    "main.js.map": "/negi_trip_paradise/static/js/main.040d0dcf.chunk.js.map",
+    "runtime-main.js": "/negi_trip_paradise/static/js/runtime-main.d6e9d6a7.js",
+    "runtime-main.js.map": "/negi_trip_paradise/static/js/runtime-main.d6e9d6a7.js.map",
+    "static/js/2.df78d8cf.chunk.js": "/negi_trip_paradise/static/js/2.df78d8cf.chunk.js",
+    "static/js/2.df78d8cf.chunk.js.map": "/negi_trip_paradise/static/js/2.df78d8cf.chunk.js.map",
+    "index.html": "/negi_trip_paradise/index.html",
+    "static/css/main.dcd72384.chunk.css.map": "/negi_trip_paradise/static/css/main.dcd72384.chunk.css.map",
+    "static/js/2.df78d8cf.chunk.js.LICENSE.txt": "/negi_trip_paradise/static/js/2.df78d8cf.chunk.js.LICENSE.txt",
+    "static/media/2_dham.7a545fee.jpg": "/negi_trip_paradise/static/media/2_dham.7a545fee.jpg",
+    "static/media/4_dham.fc5e766c.png": "/negi_trip_paradise/static/media/4_dham.fc5e766c.png",
+    "static/media/Roopkund_Lake.3f9797a2.jpg": "/negi_trip_paradise/static/media/Roopkund_Lake.3f9797a2.jpg",
+    "static/media/avatar.c9034bb5.png": "/negi_trip_paradise/static/media/avatar.c9034bb5.png",
+    "static/media/bhramatal.26be09fc.jpg": "/negi_trip_paradise/static/media/bhramatal.26be09fc.jpg",
+    "static/media/chandrashila.c1176559.jpg": "/negi_trip_paradise/static/media/chandrashila.c1176559.jpg",
+    "static/media/dayara-bugyal.23ba5fc3.jpg": "/negi_trip_paradise/static/media/dayara-bugyal.23ba5fc3.jpg",
+    "static/media/devoria-tal.e5ce2220.jpg": "/negi_trip_paradise/static/media/devoria-tal.e5ce2220.jpg",
+    "static/media/haridwar_rishikesh.6b092fb7.jpg": "/negi_trip_paradise/static/media/haridwar_rishikesh.6b092fb7.jpg",
+    "static/media/haridwar_rishikesh2.1a1fce82.jpg": "/negi_trip_paradise/static/media/haridwar_rishikesh2.1a1fce82.jpg",
+    "static/media/hero.5104fc73.jpg": "/negi_trip_paradise/static/media/hero.5104fc73.jpg",
+    "static/media/jim_corbett.5162ed15.jpg": "/negi_trip_paradise/static/media/jim_corbett.5162ed15.jpg",
+    "static/media/kausani.56471a83.jpg": "/negi_trip_paradise/static/media/kausani.56471a83.jpg",
+    "static/media/kedarkantha.6a0b9868.jpg": "/negi_trip_paradise/static/media/kedarkantha.6a0b9868.jpg",
+    "static/media/kedarnath.6d9acc99.jpg": "/negi_trip_paradise/static/media/kedarnath.6d9acc99.jpg",
+    "static/media/logo.c7d6f0e0.png": "/negi_trip_paradise/static/media/logo.c7d6f0e0.png",
+    "static/media/mussoorie2.6edbb794.jpg": "/negi_trip_paradise/static/media/mussoorie2.6edbb794.jpg",
+    "static/media/nainital.053e7a76.jpg": "/negi_trip_paradise/static/media/nainital.053e7a76.jpg",
+    "static/media/panch_kedar.89ed51c4.jpg": "/negi_trip_paradise/static/media/panch_kedar.89ed51c4.jpg",
+    "static/media/rafting.5903b4c6.jpg": "/negi_trip_paradise/static/media/rafting.5903b4c6.jpg",
+    "static/media/tehri_lake.b970d6b0.jpg": "/negi_trip_paradise/static/media/tehri_lake.b970d6b0.jpg",
+    "static/media/valley_flowers2.05087ebd.jpeg": "/negi_trip_paradise/static/media/valley_flowers2.05087ebd.jpeg",
+    "static/media/vasuki-tal.4df08bce.jpg": "/negi_trip_paradise/static/media/vasuki-tal.4df08bce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6e9d6a7.js",
+    "static/js/2.df78d8cf.chunk.js",
+    "static/css/main.dcd72384.chunk.css",
+    "static/js/main.040d0dcf.chunk.js"
+  ]
+}
